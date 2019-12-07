@@ -1,0 +1,43 @@
+.content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #C6C6C7;
+    padding: 20px;
+    width:100%;
+    border-style: outset;
+}
+
+.row{
+    text-align: left;
+}
+
+.boxborder{
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom:50px;
+    margin-left: 50px;
+    margin-right:50px;
+    text-align: center;
+    color: #3B4954;
+    font-size: medium;
+}
+
+body{
+    background-color:#EEEEEE;
+    color: #3B4954;
+}
+
+display{
+    width: 100%;
+}
+
+#generate{
+    background-color:#AF0808;
+    color: white;
+}
+
+#copy{
+    background-color: #C0C7CF;
+    color: white;
+}
+
